@@ -1,6 +1,6 @@
 ### Olá, eu sou Joanes Junior 👋
-- 🔭 Trabalhando como Analista de Sistema Junior
-- 🌱 Estudando NodeJs e MongoDb.
+- 🔭 Trabalhando como Desenvolvedor Junior.
+- 🌱 Estudando Desenvolvimento Web FullStack JavaScript
 
 <div align="center">
   <a href="https://github.com/JoanesJr">
