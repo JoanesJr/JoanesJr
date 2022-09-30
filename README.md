@@ -1,6 +1,6 @@
 ### Olá, eu sou Joanes Junior 👋
 - 🔭 Trabalhando como Desenvolvedor Junior.
-- 🌱 Estudando Desenvolvimento Web FullStack JavaScript
+- 🌱 Web Developser FullStack JavaScript.
 
 <div align="center">
   <a href="https://github.com/JoanesJr">
@@ -19,7 +19,7 @@
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="MongoDb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+    <img align="center" alt="SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
   
   ##
