@@ -1,5 +1,5 @@
 ### Olá, eu sou Joanes Junior 👋
-- 🔭 Trabalhando como Desenvolvedor Junior.
+- 🔭 Trabalhando como Desenvolvedor Pleno.
 - 🌱 Web Developser FullStack JavaScript.
 
 <div align="center">
