@@ -1,6 +1,7 @@
 ### Olá, eu sou Joanes Junior 👋
 - 🔭 Trabalhando como Desenvolvedor Pleno.
 - 🌱 Web Developser FullStack JavaScript.
+- <a href="https://my-portfolio-5bg6wdghn-joanesjr.vercel.app/">Portfolio</a>
 
 <div align="center">
   <a href="https://github.com/JoanesJr">
