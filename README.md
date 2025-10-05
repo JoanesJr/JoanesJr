@@ -1,6 +1,6 @@
 ### Olá, eu sou Joanes Junior 👋
-- 🔭 Trabalhando como Desenvolvedor Frontend Senior.
-- 🌱 Web Developser FullStack / Software Engineer .
+- 🔭 Working how Senior FullStack Developer in Scalabilty and Performance squad at Funcional Health Tech.
+- 🌱 Senior FullStack Developer / Software Engineer .
 
 <div align="center">
   <a href="https://github.com/JoanesJr">
